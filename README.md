@@ -2,7 +2,6 @@
 
 ## FullStack Developer (MERN) + Data Scientist
 
-<img src="http://static.wixstatic.com/media/bb7b70_d5fde322f7914060b7d997ba9d506a50~mv2.gif" alt="Girl in a jacket" width="1080" height="600">
 Junior full-Stack developer with 2+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, JavaScript, HTML, CSS, back-end with Node.js. I am Proficient and specialized in developing 3+ useful, well-constructed websites and applications using React.js and Node.js. Main Skills: React, React Hooks, React Context, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Heroku, Render I'm full time developer. Please contact me at mapt.dubem@gmail.com
 
 - 🌍  I'm based in Nigeria
