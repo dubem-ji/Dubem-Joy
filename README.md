@@ -32,4 +32,4 @@ Junior full-Stack developer with 2+ years of experience building high performing
 
 </p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br />
