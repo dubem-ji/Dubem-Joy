@@ -1,12 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dubem
 
-## FullStack Developer (MERN) + Data Scientist
+## FullStack Developer (MERN)
 
-Junior full-Stack developer with 2+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, JavaScript, HTML, CSS, back-end with Node.js. I am Proficient and specialized in developing 3+ useful, well-constructed websites and applications using React.js and Node.js. Main Skills: React, React Hooks, React Context, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Heroku, Render. Please contact me at mapt.dubem@gmail.com
+Junior full-Stack developer with 2+ years of experience building high-performing presentations, layers, reusable components and performance optimization with React.js, JavaScript, HTML, CSS, and back-end with Node.js. I am Proficient and specialized in developing 3+ useful, well-constructed websites and applications using React.js and Node.js. Main Skills: React, React Hooks, React Context, Tailwind CSS, Material-UI, Node.js, Express.js, MongoDB, Heroku, Render. Please contact me at mapt.dubem@gmail.com
 
 - 🌍  I'm based in Nigeria
 - ✉️  You can contact me at [mapt.dubem@gmail.com](mailto:mapt.dubem@gmail.com)
-- 🧠  I'm learning pytorch
 - 🤝  I'm open to collaborating on MERN projects
 
 ### Skills
